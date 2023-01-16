@@ -1,0 +1,248 @@
+ABL
+ABN
+ABSA Bank
+Accurint
+Adobe
+Aetna
+Alibaba
+Allegro
+Alliance Bank
+Amarillo
+Amazon
+American Airlines
+American Express
+American Greetings
+Americanas
+Ameritrade
+ANZ
+AOL
+Apple
+ArenaNet
+ASB
+Associated Bank
+AT&T
+ATO
+B-tc
+Banca di Roma
+Banca Intesa
+Bancasa
+Banco De Brasil
+Banco Real
+Bank Millennium
+Bank of America
+MBNA
+Bank of KC
+Bank of the West
+Barclays
+BB&T
+BBVA
+BCP
+Bendigo
+Binance
+Bitfinex
+bitFlyer
+Bitmex
+Blizzard
+Blockchain
+BloomSpot
+BMO
+BNDES
+Bradesco
+BT
+BuyWithMe
+Cahoot
+Caixa
+Caixo
+Capital One
+Capitec Bank
+Career Builder
+Cariparma Credit Agricole
+Cartasi
+Cembra
+Centurylink
+Charter One
+Chase
+CIBC
+Cielo
+CIMB Bank
+Citibank
+Citizens
+CNB
+Co-operative Bank
+Coinbase
+Comerica
+Commonwealth Bank of Australia
+Compass
+Cox
+Craigslist
+Credit Karma
+Crown
+CUA
+Credit Union Australia
+DBS
+Delta
+Deutsche Bank
+DHL
+Diners Club
+Discover Bank
+Discover Card
+Discovery
+DKB
+DocuSign
+Downey Savings
+Dropbox
+e-gold
+eBay
+EE
+Egg
+EPPICard
+Facebook
+FHB
+Fifth Third Bank
+First Direct
+First Federal Bank of California
+First National Bank
+Franklin
+Free Mobile
+GiffGaff
+GitHub
+Google
+Groupon
+Gruppo Carige
+GTBank
+GuildWars2
+Habbo
+Halifax
+HMRC
+HomeRun
+Hotmail
+HSBC
+Huntington
+IDEX
+Independent Bank
+Instagram
+Interactive Brokers
+Intesa Sanpaolo
+IRS
+Itau
+KCFCU
+Kauai Credit Union
+Key Bank
+Kiwibank
+LaSalle
+LinkedIn
+Littlewoods
+Live
+LivingSocial
+Lloyds Bank
+LocalBitcoins.com
+Lottomatica
+M&I
+M&T Bank
+Mastercard
+MBTrading
+Metro Bank
+Microsoft
+MyCrypto
+MyEtherWallet
+MyMonero
+MySpace
+NAB
+Nantucket Bank
+National City
+Nationwide
+NatWest
+Navy Federal CU
+Nedbank
+Netflix
+Nets
+NetSuite
+NEXON
+Nordea
+Northern Rock
+Nubank
+O2
+Optus
+Orange
+Orkut
+Other
+otoMoto
+PagSeguro
+Paxful
+PayPal
+Peoples
+Permanent TSB
+Pintrest
+PKO
+Playdom
+Playfish
+Plum District
+PNC Bank
+Poste
+PUBG
+Rabobank
+Rackspace
+Raiffeisen Bank
+Rakuten
+RBC
+RBS
+Regions
+Revolut
+RuneScape
+Safra National Bank of New York
+Salem Five
+Salesforce
+Santander
+Santander UK
+Scotiabank
+Sky Financial
+Skype
+SMBC
+Smile Bank
+SocGen
+South African Revenue Service
+Sparkasse
+Special
+St George Bank
+Standard Bank Ltd.
+Steam
+Suncorp
+SunTrust
+Swedbank
+Swiss Post
+Tagged
+TAM Fidelidade
+TD Canada Trust
+Tesco
+Three
+Tibia
+Tippr
+TSB
+Twitter
+Uber
+UniCredit
+US Airways
+US Bank
+USAA
+Verizon
+Very
+Virgin Media
+Virustotal
+Visa
+VK
+Vodafone
+Volksbanken Raiffeisenbanken
+Wachovia
+WalMart
+Washington Mutual
+Wells Fargo
+Western Union
+Westpac
+WeTransfer
+WhatsApp
+World of Warcraft
+Xapo
+Xfinity
+Yahoo
+ZML
+Zynga

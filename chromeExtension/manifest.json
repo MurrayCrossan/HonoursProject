@@ -1,0 +1,12 @@
+{
+  "name": "Phishing Alert",
+  "description": "Will alert users to possible phishing attacks",
+  "version": "0.7",
+  "permissions": [
+          "tabs", "storage"
+  ],
+  "background": {
+    "scripts": ["store.js"]
+  },
+  "manifest_version": 2
+}
